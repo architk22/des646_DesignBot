@@ -1,0 +1,317 @@
+[
+  {
+    "ts": 1762697394.7897785,
+    "patient_name": "Rahul",
+    "age": 19,
+    "doctor_name": "Dr.Mehta",
+    "new_drug": "warfarin",
+    "current": [
+      "metronidazole"
+    ],
+    "alerts": [
+      {
+        "id": "metronidazole::warfarin",
+        "pair": [
+          "warfarin",
+          "metronidazole"
+        ],
+        "severity": "Moderate",
+        "severity_score": 0.6,
+        "description": "The serum concentration of Metronidazole can be increased when it is combined with Warfarin.",
+        "management": "Monitor therapy; consider dose adjustment and clinical follow-up.",
+        "sources": [
+          {
+            "source_id": "DBI",
+            "last_reviewed": "2025-11-03"
+          }
+        ],
+        "proof": {
+          "canonical_pair": [
+            "warfarin",
+            "metronidazole"
+          ],
+          "row_ids": [
+            156467
+          ],
+          "policy": "max_severity_v0+cont_score_v1"
+        }
+      }
+    ],
+    "not_found": []
+  },
+  {
+    "ts": 1762697431.1175146,
+    "patient_name": "Rahul",
+    "age": 19,
+    "doctor_name": "Dr.Mehta",
+    "new_drug": "warfarin",
+    "current": [
+      "fluconazole",
+      "metronidazole"
+    ],
+    "alerts": [
+      {
+        "id": "fluconazole::warfarin",
+        "pair": [
+          "warfarin",
+          "fluconazole"
+        ],
+        "severity": "Moderate",
+        "severity_score": 0.6,
+        "description": "The serum concentration of Fluconazole can be increased when it is combined with Warfarin.",
+        "management": "Monitor therapy; consider dose adjustment and clinical follow-up.",
+        "sources": [
+          {
+            "source_id": "DBI",
+            "last_reviewed": "2025-11-03"
+          }
+        ],
+        "proof": {
+          "canonical_pair": [
+            "warfarin",
+            "fluconazole"
+          ],
+          "row_ids": [
+            25592
+          ],
+          "policy": "max_severity_v0+cont_score_v1"
+        }
+      },
+      {
+        "id": "metronidazole::warfarin",
+        "pair": [
+          "warfarin",
+          "metronidazole"
+        ],
+        "severity": "Moderate",
+        "severity_score": 0.6,
+        "description": "The serum concentration of Metronidazole can be increased when it is combined with Warfarin.",
+        "management": "Monitor therapy; consider dose adjustment and clinical follow-up.",
+        "sources": [
+          {
+            "source_id": "DBI",
+            "last_reviewed": "2025-11-03"
+          }
+        ],
+        "proof": {
+          "canonical_pair": [
+            "warfarin",
+            "metronidazole"
+          ],
+          "row_ids": [
+            156467
+          ],
+          "policy": "max_severity_v0+cont_score_v1"
+        }
+      }
+    ],
+    "not_found": []
+  },
+  {
+    "ts": 1762697508.6672091,
+    "patient_name": "Rahul",
+    "age": 19,
+    "doctor_name": "Dr.Mehta",
+    "new_drug": "warfarin",
+    "current": [
+      "fluconazole",
+      "metronidazole"
+    ],
+    "alerts": [
+      {
+        "id": "fluconazole::warfarin",
+        "pair": [
+          "warfarin",
+          "fluconazole"
+        ],
+        "severity": "Moderate",
+        "severity_score": 0.6,
+        "description": "The serum concentration of Fluconazole can be increased when it is combined with Warfarin.",
+        "management": "Monitor therapy; consider dose adjustment and clinical follow-up.",
+        "sources": [
+          {
+            "source_id": "DBI",
+            "last_reviewed": "2025-11-03"
+          }
+        ],
+        "proof": {
+          "canonical_pair": [
+            "warfarin",
+            "fluconazole"
+          ],
+          "row_ids": [
+            25592
+          ],
+          "policy": "max_severity_v0+cont_score_v1"
+        }
+      },
+      {
+        "id": "metronidazole::warfarin",
+        "pair": [
+          "warfarin",
+          "metronidazole"
+        ],
+        "severity": "Moderate",
+        "severity_score": 0.6,
+        "description": "The serum concentration of Metronidazole can be increased when it is combined with Warfarin.",
+        "management": "Monitor therapy; consider dose adjustment and clinical follow-up.",
+        "sources": [
+          {
+            "source_id": "DBI",
+            "last_reviewed": "2025-11-03"
+          }
+        ],
+        "proof": {
+          "canonical_pair": [
+            "warfarin",
+            "metronidazole"
+          ],
+          "row_ids": [
+            156467
+          ],
+          "policy": "max_severity_v0+cont_score_v1"
+        }
+      }
+    ],
+    "not_found": []
+  },
+  {
+    "ts": 1762697530.1288984,
+    "patient_name": "Rahul",
+    "age": 19,
+    "doctor_name": "Dr.Mehta",
+    "new_drug": "warfarin",
+    "current": [
+      "fluconazole",
+      "metronidazole"
+    ],
+    "alerts": [
+      {
+        "id": "fluconazole::warfarin",
+        "pair": [
+          "warfarin",
+          "fluconazole"
+        ],
+        "severity": "Moderate",
+        "severity_score": 0.6,
+        "description": "The serum concentration of Fluconazole can be increased when it is combined with Warfarin.",
+        "management": "Monitor therapy; consider dose adjustment and clinical follow-up.",
+        "sources": [
+          {
+            "source_id": "DBI",
+            "last_reviewed": "2025-11-03"
+          }
+        ],
+        "proof": {
+          "canonical_pair": [
+            "warfarin",
+            "fluconazole"
+          ],
+          "row_ids": [
+            25592
+          ],
+          "policy": "max_severity_v0+cont_score_v1"
+        }
+      },
+      {
+        "id": "metronidazole::warfarin",
+        "pair": [
+          "warfarin",
+          "metronidazole"
+        ],
+        "severity": "Moderate",
+        "severity_score": 0.6,
+        "description": "The serum concentration of Metronidazole can be increased when it is combined with Warfarin.",
+        "management": "Monitor therapy; consider dose adjustment and clinical follow-up.",
+        "sources": [
+          {
+            "source_id": "DBI",
+            "last_reviewed": "2025-11-03"
+          }
+        ],
+        "proof": {
+          "canonical_pair": [
+            "warfarin",
+            "metronidazole"
+          ],
+          "row_ids": [
+            156467
+          ],
+          "policy": "max_severity_v0+cont_score_v1"
+        }
+      }
+    ],
+    "not_found": []
+  },
+  {
+    "ts": 1762697721.8051713,
+    "patient_name": "Amit",
+    "age": 9,
+    "doctor_name": "Dr. Singh",
+    "new_drug": "levocetirizine",
+    "current": [
+      "erythromycin"
+    ],
+    "alerts": [
+      {
+        "id": "erythromycin::levocetirizine",
+        "pair": [
+          "levocetirizine",
+          "erythromycin"
+        ],
+        "severity": "Moderate",
+        "severity_score": 0.6,
+        "description": "The metabolism of Erythromycin can be decreased when combined with Levocetirizine.",
+        "management": "Monitor therapy; consider dose adjustment and clinical follow-up.",
+        "sources": [
+          {
+            "source_id": "DBI",
+            "last_reviewed": "2025-11-03"
+          }
+        ],
+        "proof": {
+          "canonical_pair": [
+            "levocetirizine",
+            "erythromycin"
+          ],
+          "row_ids": [
+            24907
+          ],
+          "policy": "max_severity_v0+cont_score_v1"
+        }
+      }
+    ],
+    "not_found": []
+  },
+  {
+    "created_at": "2025-11-09T14:30:46+00:00",
+    "patient_name": "Abhishek",
+    "age": 21,
+    "doctor_name": "Dr.Archit",
+    "new_drug": "ciprofloxacin",
+    "current": [
+      "warfarin"
+    ],
+    "summary": []
+  },
+  {
+    "created_at": "2025-11-09T14:31:14+00:00",
+    "patient_name": "Abhishek",
+    "age": 21,
+    "doctor_name": "Dr.Archit",
+    "new_drug": "warfarin",
+    "current": [
+      "metronidazole"
+    ],
+    "summary": [
+      {
+        "pair": [
+          "warfarin",
+          "metronidazole"
+        ],
+        "severity": "Moderate",
+        "score": 0.6
+      }
+    ]
+  }
+]
