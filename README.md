@@ -12,8 +12,8 @@ Simple Drug–Drug Interaction (DDI) app with a FastAPI backend and a Streamlit 
 1. From the project root:
 ```powershell
 # create venv and activate (PowerShell)
-py -3 -m venv .venv
-.\.venv\Scripts\Activate.ps1
+python -m venv venv
+.\venv\Scripts\Activate
 
 # upgrade packaging tools and install deps
 python -m pip install --upgrade pip setuptools wheel
